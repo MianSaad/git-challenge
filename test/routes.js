@@ -83,3 +83,4 @@ tape('should get stream', function (t) {
       t.end()
     })
 })
+console.log('add-echo');
